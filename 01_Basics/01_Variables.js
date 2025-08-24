@@ -3,6 +3,7 @@ let accountEmail = "vivekChaurasiya "
 
 var accountPassword = "1212121"
 accountCity = "Gurgao"
+let accountState
 
 
 let accountName = "vivek"
